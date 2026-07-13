@@ -25,14 +25,14 @@ Senior Backend / Fullstack Engineer with 5+ years of experience building product
 
 ## 🚀 Featured Projects
 
-### [Payment Service](https://github.com/romalsh/payment-service)
+### [💳 Payment Service](https://github.com/romalsh/payment-service)
 Secure and idempotent webhook processing with HMAC verification, replay protection, Redis, MongoDB and concurrency-safe crediting.
 
-### [To-Do Service](https://github.com/romalsh/todo-service)
+### [✅ To-Do Service](https://github.com/romalsh/todo-service)
 NestJS/PostgreSQL backend with JWT, migrations, WebSocket events, Docker and E2E tests through Testcontainers.
 
-### [Infinity List](https://github.com/romalsh/infinity-list-app)
+### [♾️ Infinity List](https://github.com/romalsh/infinity-list-app)
 Fullstack React/Node.js selector designed for 1,000,000 records using virtualization, cursor pagination and batched mutations.
 
-### [URL Service](https://github.com/romalsh/url-app)
+### [🔗 URL Service](https://github.com/romalsh/url-app)
 Fullstack asynchronous URL-processing service with concurrency control, cancellation, timeouts and job progress tracking.
